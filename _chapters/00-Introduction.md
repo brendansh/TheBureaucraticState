@@ -9,6 +9,7 @@ title: Introduction
 <br/><br/>
 <br/><br/>
 
+
 > The Pilgrims thought themselves at full liberty without any charter from the crown, to establish such sort of government as they thought proper, and to form a new state as full to all intents and purposes as if they had been in a state of nature, and were making their first entrance into civil society. 
 >
 >**THOMAS HUTCHINSON**
