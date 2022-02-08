@@ -38,14 +38,14 @@ the citizens could rally overnight to oppose the nationalization of slavery, and
 bureaucratic America in which the citizens have nothing in common but the
 common concrete wilderness of our cities and urban suburbs, where
 "closely
-packed human beings" live isolated from one another in that "wierd irreality that
+packed human beings" live isolated from one another in that "weird irreality that
 human relationships assume wherever they develop in absolute worldlessness,
 unrelated to a world common to all people."
 The United States was transformed, largely as a result of conditions in the South
-and massive immigration in the North after the Civil War, from a democratie
+and massive immigration in the North after the Civil War, from a democratic
 republic into a bureaucratic state and mass society in the years between the
 1890's and the 1920's, (and, as a consequence, Americans have largely forgotten
-the Old Republie and lost contact with the republican political tradition,) but,
+the Old Republic and lost contact with the republican political tradition,) but,
 
 
 
