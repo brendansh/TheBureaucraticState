@@ -1,5 +1,5 @@
 ---
-title: My awesome book
-author: Boris Marinov
+title: The Bureaucratic State
+author: H.R. Shapiro
 language: en-US
 ...
