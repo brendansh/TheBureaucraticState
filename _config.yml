@@ -13,7 +13,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://brendansh.github.io/TheBureaucraticState/
+url: https://brendansh.github.io/
 
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 
